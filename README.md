@@ -75,6 +75,17 @@
 ![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 March 2025 - To: 22 March 2025
+
+JavaScript   3 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.15 %
+CSS          1 hr 58 mins    ██████░░░░░░░░░░░░░░░░░░░   23.61 %
+HTML         1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+JSON         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2>❤️ Support Me</h2>
