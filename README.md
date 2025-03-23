@@ -15,6 +15,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabrux-codes&show_icons=true&locale=en" alt="mabrux-codes" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mabrux-codes&" alt="mabrux-codes" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mabrux-codes&show_icons=true&locale=en&layout=compact" alt="mabrux-codes" /></p>
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/mabrux">
