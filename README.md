@@ -70,7 +70,7 @@
   </a>
 </div>
 
-### 📊 My WakaTime Spend
+### ⏱ Hours in Code: My Dev Journey
 
 ![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)
 
