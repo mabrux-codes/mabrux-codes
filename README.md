@@ -16,9 +16,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mabrux-codes&" alt="mabrux-codes" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mabrux-codes&show_icons=true&locale=en&layout=compact" alt="mabrux-codes" /></p>
 
-### 📊 Weekly Development Breakdown
+### 📊 My Coding Stats
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%209%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.6%20million%20lines%20of%20code-blue)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 <h2>❤️ Support Me</h2>
 <p><p>
