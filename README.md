@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mabrux-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Stats" height="199" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mabrux-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=I%20mostly%20use%20these%20languages%F0%9F%91%87%F0%9F%8F%BE" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mabrux-codes&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
@@ -78,15 +78,12 @@
   </a>
 </div>
 
-
 ### 📊 My WakaTime Spend
 
 ![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
 
 <h2>❤️ Support Me</h2>
 <p><p>
