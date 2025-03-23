@@ -12,11 +12,8 @@
 <p><a target="_blank" href="https://twitter.com/KhalidMabrux" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/mabrux" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/mabru.x" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabrux-codes&show_icons=true&locale=en" alt="mabrux-codes" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mabrux-codes&" alt="mabrux-codes" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mabrux-codes&show_icons=true&locale=en&layout=compact" alt="mabrux-codes" /></p>
 
-### 📊 Software Development Breakdown
+### 📊 My Weekly Development Breakdown
 
 ![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)
 
