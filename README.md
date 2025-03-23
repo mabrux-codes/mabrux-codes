@@ -18,7 +18,7 @@
 
 ### 📊 Software Development Breakdown
 
-[![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)]
+![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
