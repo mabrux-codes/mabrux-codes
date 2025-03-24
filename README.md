@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Software Engineering Student passionate about building interactive and user-friendly web applications. With a background in graphic design, I'm also diving into UI/UX design to merge creativity with technology.</p>
+<p align="center">A Software Engineering Student passionate about building interactive and user-friendly web applications. With a background in graphic design, I'm also diving into UI/UX design to merge creativity with technology.</p>
 
 ###
 
