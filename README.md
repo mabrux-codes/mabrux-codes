@@ -70,34 +70,8 @@
   </a>
 </div>
 
-### ⏱ Hours in Code: My Dev Journey
+###
 
-![Coding Time Spent](https://wakatime.com/badge/user/7654e2ed-1b2c-4c5f-bcef-fd180469571d.svg)
+<img src="https://raw.githubusercontent.com/mabrux-codes/mabrux-codes/output/snake.svg" alt="Snake animation" />
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 16 March 2025 - To: 23 March 2025
-
-JavaScript   3 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   36.74 %
-CSS          1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.71 %
-HTML         1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Markdown     1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-YAML         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-```
-
-<!--END_SECTION:waka-->
-
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/mabrux">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+###
